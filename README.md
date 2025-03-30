@@ -8,10 +8,6 @@ Features
 
 📝 Create, edit, and delete notes
 
-🔍 Search for notes by title or content
-
-📁 Organize notes into categories
-
 🌙 Dark mode support
 
 💾 Auto-save functionality
