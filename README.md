@@ -3,8 +3,6 @@ Notes App
 
 A simple and efficient Notes application that allows users to create, edit, and manage their notes easily.
 
-Features
-
 📝 Create, edit, and delete notes
 
 🌙 Dark mode support
