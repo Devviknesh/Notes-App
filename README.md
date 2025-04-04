@@ -5,8 +5,6 @@ A simple and efficient Notes application that allows users to create, edit, and 
 
 📝 Create, edit, and delete notes
 
-🌙 Dark mode support
-
 💾 Auto-save functionality
 
 Tech Stack
